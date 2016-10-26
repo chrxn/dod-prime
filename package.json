@@ -1,0 +1,27 @@
+{
+  "name": "dod-prime",
+  "version": "0.1.0",
+  "description": "A tool for analyzing Department of Defense Prime Contractor files",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrxn/dod-prime.git"
+  },
+  "keywords": [
+    "dod",
+    "weapons"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrxn/dod-prime/issues"
+  },
+  "homepage": "https://github.com/chrxn/dod-prime#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "underscore": "^1.8.3"
+  }
+}
